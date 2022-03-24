@@ -1,6 +1,7 @@
-# MSc-dissertation-SubmodularKernel
+# Cut function Kernel
 A novel kernel for rankings data.
 
+# Installation instruction
 
 ### Python dependencies
 - sympy
